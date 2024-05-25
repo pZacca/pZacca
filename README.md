@@ -1,6 +1,6 @@
 ![Card](https://cardivo.alexrogalskiy.vercel.app/api?name=Pedro%20Zaccaria&description=Backend%20Developer&image=https://avatars.githubusercontent.com/u/72773579?v=4&backgroundColor=%23f7f7f7&github=pZacca&opacity=0.4&colorPattern=%23FFE0E9&fontColor=%230A83DC)
-
-### 🚀 Languages and Tools:</summary>
+#
+### 🚀 Languages and Tools</summary>
 <p align="left">
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" />
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt="Dot NET Core" />
@@ -33,13 +33,13 @@
 <a href="https://x.com/zaccadev"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/zaccadev"></a>
 <a href="https://wa.me/5513997655782"><img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-grey?logo=whatsapp"></a>
 
-
+#
 
 
 ### 🤖 Github Stats</b></summary>
 [comment]: ![Metrics](https://metrics.lecoq.io/pZacca?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
 
-<div align="left">
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pZacca&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pZacca&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pZacca&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
@@ -49,6 +49,8 @@
 
 </p>
 
+#
+
 ### 👨🏻‍💻 Technologies Stats</b></summary>
 
 <div id="statistics_contributions_block_id" align="center" style="align-content: center; text-align:center;">
@@ -56,5 +58,3 @@
  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pZacca&heigth=300" alt="CodersRank skills chart" />
  </a>
 </div>
-
-<script src="https://unpkg.com/@codersrank/activity@x.x.x/codersrank-activity.min.js"></script>
