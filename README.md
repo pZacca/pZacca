@@ -1,5 +1,5 @@
 ![Digital Tools](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/banner/header.jpg)
-![Card](https://cardivo.alexrogalskiy.vercel.app/api?name=Pedro%20Zaccaria&description=Backend%20Developer&image=https://avatars.githubusercontent.com/u/72773579?v=4&backgroundColor=%23FFFFFF&github=pZacca&pattern=topography&opacity=0.2&colorPattern=%237734eb&fontColor=%23000000)
+![Card](https://cardivo.alexrogalskiy.vercel.app/api?name=Pedro%20Zaccaria&description=Backend%20Developer&image=https://avatars.githubusercontent.com/u/72773579?v=4&backgroundColor=%23FFFFFF&github=pZacca&pattern=topography&opacity=0.2&colorPattern=%230a83dc&fontColor=%23000000)
 #
 ### 🚀 Languages and Tools</summary>
 <p align="left">
