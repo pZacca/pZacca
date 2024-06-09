@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: pZacca
           template: classic
-          base: header, activity, repositories, metadata
+          base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_display: large
           config_timezone: America/Sao_Paulo
@@ -43,6 +43,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
+          plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_ignored: Less, SCSS
           plugin_languages_limit: 12
           plugin_languages_recent_categories: markup, programming
