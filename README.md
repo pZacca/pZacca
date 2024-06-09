@@ -51,11 +51,3 @@
 </p>
 
 #
-
-### 👨🏻‍💻 Technologies Stats</b></summary>
-
-<div id="statistics_contributions_block_id" align="center" style="align-content: center; text-align:center;">
- <a href="https://profile.codersrank.io/user/pZacca" target="_blank">
- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pZacca&heigth=300" alt="CodersRank skills chart" />
- </a>
-</div>
