@@ -1,7 +1,10 @@
-![Digital Tools](https://raw.githubusercontent.com/AlexRogalskiy/AlexRogalskiy/master/images/banner/header.jpg)
+![Digital Tools](/src/img/header.jpg)
 ![Card](https://cardivo.alexrogalskiy.vercel.app/api?name=Pedro%20Zaccaria&description=Backend%20Developer&image=https://avatars.githubusercontent.com/u/72773579?v=4&backgroundColor=%23FFFFFF&github=pZacca&pattern=topography&opacity=0.2&colorPattern=%23000000&fontColor=%230A83DC)
+
 #
+
 ### 🚀 Languages and Tools</summary>
+
 <p align="left">
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" />
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt="Dot NET Core" />
@@ -23,7 +26,6 @@
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cpp" />
 </p>
 
-
 ### 🔗 Let's connect!
 
 <p align="left">
@@ -36,8 +38,8 @@
 
 #
 
-
 ### 🤖 Github Stats</b></summary>
+
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
