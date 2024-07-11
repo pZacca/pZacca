@@ -1,5 +1,5 @@
 ![Digital Tools](/src/img/header.jpg)
-[![Card](https://cardivo.alexrogalskiy.vercel.app/api?name=Pedro%20Zaccaria&description=Fullstack%20Developer&image=https://avatars.githubusercontent.com/u/72773579?v=4&backgroundColor=%23FFFFFF&github=pZacca&pattern=hideout&opacity=0.3&colorPattern=%23000000&fontColor=%23004fab&linkedin=pedro-zaccaria)](https://linkedin.com/in/pedro-zaccaria)
+[![Card](https://cardivo.alexrogalskiy.vercel.app/api?name=Pedro%20Zaccaria&description=Fullstack%20Developer&image=https://avatars.githubusercontent.com/u/72773579?v=4&backgroundColor=%23EFEFEF&github=pZacca&pattern=hideout&opacity=1&colorPattern=%23d3d4f3&fontColor=%237c7cff&linkedin=pedro-zaccaria)](https://linkedin.com/in/pedro-zaccaria)
 
 #
 
