@@ -1,4 +1,3 @@
-![Digital Tools](/src/img/header2.png)
 [![Card](https://cardivo.alexrogalskiy.vercel.app/api?name=Pedro%20Zaccaria&description=Software%20Engineer&image=https://avatars.githubusercontent.com/u/72773579?v=4&backgroundColor=%23EFEFEF&github=pZacca&pattern=fourPointStars&opacity=0.15&colorPattern=%239576ff&fontColor=%237c7cff&linkedin=pedro-zaccaria)](https://linkedin.com/in/pedro-zaccaria)
 
 #
