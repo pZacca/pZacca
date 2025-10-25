@@ -1,4 +1,4 @@
-[![Card](https://cardivo.alexrogalskiy.vercel.app/api?name=Pedro%20Zaccaria&description=Software%20Engineer&image=https://avatars.githubusercontent.com/u/72773579?v=4&backgroundColor=%23EFEFEF&github=pZacca&pattern=fourPointStars&opacity=0.15&colorPattern=%239576ff&fontColor=%237c7cff&linkedin=pedro-zaccaria)](https://linkedin.com/in/pedro-zaccaria)
+[![Card](https://cardivo.alexrogalskiy.vercel.app/api?name=Pedro%20Zaccaria&description=Senior%20Software%20Engineer&image=https://avatars.githubusercontent.com/u/72773579?v=4&backgroundColor=%23101012&github=pZacca&pattern=topography&opacity=0.04&colorPattern=%2300ff00&fontColor=%23e4e4e7&iconColor=%233b82f6&linkedin=pedro-zaccaria&zacca.dev&twitter=zaccadev)](https://linkedin.com/in/pedro-zaccaria)
 
 #
 
