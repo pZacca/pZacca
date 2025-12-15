@@ -10,6 +10,7 @@
 <img height="25" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_light_mcp.svg" title="MCP" alt="Model Context Protocol">
 <img width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" />
 <img width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React JS" alt="React JS" />
+<img width="25" height="25" src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/static/library/tanstack.svg" title="TanStack" alt="TanStack" />
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="Google Cloud Platform">
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg"" title="GCP" alt="GraphQL">
