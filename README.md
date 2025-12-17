@@ -2,7 +2,7 @@
 
 #
 
-### 🚀 Languages and Tools</summary>
+### 🚀 Languages, Frameworks and Tools</summary>
 
 <p align="left">
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" />
