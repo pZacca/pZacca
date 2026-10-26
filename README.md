@@ -1,4 +1,4 @@
-[![Card](https://cardivo.alexrogalskiy.vercel.app/api?name=Pedro%20Zaccaria&description=Head%20of%20Technology&image=https://avatars.githubusercontent.com/u/72773579?v=4&backgroundColor=%23101012&github=pZacca&pattern=texture&opacity=0.2&colorPattern=%2300ff00&fontColor=%23e4e4e7&iconColor=%233b82f6&linkedin=pedro-zaccaria&zacca.dev&twitter=zaccadev)](https://linkedin.com/in/pedro-zaccaria)
+[![Card](https://cardivo.vercel.app/api?name=Pedro%20Zaccaria&description=CTO&image=https://avatars.githubusercontent.com/u/72773579?v=4&backgroundColor=%23101012&github=pZacca&pattern=texture&opacity=0.2&colorPattern=%2300ff00&fontColor=%23e4e4e7&iconColor=%233b82f6&linkedin=pedro-zaccaria&site=zacca.dev&twitter=zaccadev)](https://linkedin.com/in/pedro-zaccaria)
 
 #
 
@@ -8,7 +8,7 @@
 <img width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" />
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="Google Cloud Platform">
 <img width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React JS" alt="React JS" />
-<img width="25" height="25" src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/static/library/tanstack.svg" title="TanStack" alt="TanStack" />
+<img width="25" height="25" src="https://raw.githubusercontent.com/pheralb/svgl/268c2720acf9ec7038d6e21cbc4a878327f57973/static/library/tanstack.svg" title="TanStack" alt="TanStack" />
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" />
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" />
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel">
